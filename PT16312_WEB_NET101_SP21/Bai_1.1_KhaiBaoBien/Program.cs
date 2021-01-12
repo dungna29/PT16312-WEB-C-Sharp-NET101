@@ -14,6 +14,8 @@ namespace Bai_1._1_KhaiBaoBien
          * được khở tạo trong bộ nhớ ảo khi chương trình khởi chạy.
          *
          * Công thức: <Kiểu dữ liệu> <Tên Biến> = <Giá trị>;
+         *      Khai báo nhiều biến có cùng kiểu dữ liệu trên cùng 1 dòng:
+         *      <Kiểu dữ liệu> <Tên Biến1> = <Giá trị>, <Tên Biến2> = <Giá trị>, <tên biến n>;
          * 1. <Kiểu dữ liệu>
          *  + Số nguyên:sbyte, byte, long, int
          *  + Sô thực: float, double, decimal

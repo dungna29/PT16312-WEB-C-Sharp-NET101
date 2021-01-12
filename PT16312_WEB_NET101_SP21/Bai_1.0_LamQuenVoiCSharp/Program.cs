@@ -24,10 +24,6 @@ namespace Bai_1._0_LamQuenVoiCSharp
          * Comment code: // hoặc /*
          */
      
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="args"></param>
         static void Main(string[] args)
         {
             //Xuất ra màn hình: cw + tab

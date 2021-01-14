@@ -1,0 +1,6 @@
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_1.9_Switch_Case\obj\Debug\Bai_1.9_Switch_Case.csproj.CoreCompileInputs.cache
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_1.9_Switch_Case\bin\Debug\Bai_1.9_Switch_Case.exe.config
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_1.9_Switch_Case\bin\Debug\Bai_1.9_Switch_Case.exe
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_1.9_Switch_Case\bin\Debug\Bai_1.9_Switch_Case.pdb
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_1.9_Switch_Case\obj\Debug\Bai_1.9_Switch_Case.exe
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_1.9_Switch_Case\obj\Debug\Bai_1.9_Switch_Case.pdb

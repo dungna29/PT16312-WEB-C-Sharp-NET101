@@ -1,0 +1,7 @@
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\BAI_2.0_VongLap_While\bin\Debug\BAI_2.0_VongLap_While.exe.config
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\BAI_2.0_VongLap_While\bin\Debug\BAI_2.0_VongLap_While.exe
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\BAI_2.0_VongLap_While\bin\Debug\BAI_2.0_VongLap_While.pdb
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\BAI_2.0_VongLap_While\obj\Debug\BAI_2.0_VongLap_While.csprojAssemblyReference.cache
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\BAI_2.0_VongLap_While\obj\Debug\BAI_2.0_VongLap_While.csproj.CoreCompileInputs.cache
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\BAI_2.0_VongLap_While\obj\Debug\BAI_2.0_VongLap_While.exe
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\BAI_2.0_VongLap_While\obj\Debug\BAI_2.0_VongLap_While.pdb

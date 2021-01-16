@@ -1,0 +1,7 @@
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_2.4_BaiTap_OnTap\bin\Debug\Bai_2.4_BaiTap_OnTap.exe.config
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_2.4_BaiTap_OnTap\bin\Debug\Bai_2.4_BaiTap_OnTap.exe
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_2.4_BaiTap_OnTap\bin\Debug\Bai_2.4_BaiTap_OnTap.pdb
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_2.4_BaiTap_OnTap\obj\Debug\Bai_2.4_BaiTap_OnTap.csprojAssemblyReference.cache
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_2.4_BaiTap_OnTap\obj\Debug\Bai_2.4_BaiTap_OnTap.csproj.CoreCompileInputs.cache
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_2.4_BaiTap_OnTap\obj\Debug\Bai_2.4_BaiTap_OnTap.exe
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_2.4_BaiTap_OnTap\obj\Debug\Bai_2.4_BaiTap_OnTap.pdb

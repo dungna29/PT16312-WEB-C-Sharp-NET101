@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_2.3_VongLap_ForEach", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_2.4_BaiTap_OnTap", "Bai_2.4_BaiTap_OnTap\Bai_2.4_BaiTap_OnTap.csproj", "{FFC58F59-C34A-4AE5-9E5F-C057D7EFFDFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAIMAU_COBAN", "BAIMAU_COBAN\BAIMAU_COBAN.csproj", "{28465BD0-A14B-4FAE-9259-FF98701626DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_2.5_Array", "Bai_2.5_Array\Bai_2.5_Array.csproj", "{BBFA2A32-FB9A-4AA5-9AD5-D297EB88DEE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{FFC58F59-C34A-4AE5-9E5F-C057D7EFFDFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFC58F59-C34A-4AE5-9E5F-C057D7EFFDFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFC58F59-C34A-4AE5-9E5F-C057D7EFFDFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28465BD0-A14B-4FAE-9259-FF98701626DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28465BD0-A14B-4FAE-9259-FF98701626DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28465BD0-A14B-4FAE-9259-FF98701626DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28465BD0-A14B-4FAE-9259-FF98701626DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBFA2A32-FB9A-4AA5-9AD5-D297EB88DEE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFA2A32-FB9A-4AA5-9AD5-D297EB88DEE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFA2A32-FB9A-4AA5-9AD5-D297EB88DEE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFA2A32-FB9A-4AA5-9AD5-D297EB88DEE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

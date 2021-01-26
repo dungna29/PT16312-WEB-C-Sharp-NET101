@@ -1,0 +1,6 @@
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_3.2_Method_HamTraVe\bin\Debug\Bai_3.2_Method_HamTraVe.exe.config
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_3.2_Method_HamTraVe\bin\Debug\Bai_3.2_Method_HamTraVe.exe
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_3.2_Method_HamTraVe\bin\Debug\Bai_3.2_Method_HamTraVe.pdb
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_3.2_Method_HamTraVe\obj\Debug\Bai_3.2_Method_HamTraVe.csproj.CoreCompileInputs.cache
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_3.2_Method_HamTraVe\obj\Debug\Bai_3.2_Method_HamTraVe.exe
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_3.2_Method_HamTraVe\obj\Debug\Bai_3.2_Method_HamTraVe.pdb

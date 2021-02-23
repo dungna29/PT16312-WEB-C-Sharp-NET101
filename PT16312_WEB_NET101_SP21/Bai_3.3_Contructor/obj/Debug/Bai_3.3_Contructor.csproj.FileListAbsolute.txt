@@ -1,0 +1,7 @@
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_3.3_Contructor\bin\Debug\Bai_3.3_Contructor.exe.config
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_3.3_Contructor\bin\Debug\Bai_3.3_Contructor.exe
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_3.3_Contructor\bin\Debug\Bai_3.3_Contructor.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_3.3_Contructor\obj\Debug\Bai_3.3_Contructor.csprojAssemblyReference.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_3.3_Contructor\obj\Debug\Bai_3.3_Contructor.csproj.CoreCompileInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_3.3_Contructor\obj\Debug\Bai_3.3_Contructor.exe
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16312-WEB-C-Sharp-NET101-SPRING2021\PT16312_WEB_NET101_SP21\Bai_3.3_Contructor\obj\Debug\Bai_3.3_Contructor.pdb

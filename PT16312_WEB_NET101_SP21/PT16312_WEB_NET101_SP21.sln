@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_3.2_Method_HamTraVe", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAIMAU_METHOD", "BAIMAU_METHOD\BAIMAU_METHOD.csproj", "{0998BA1B-7BD1-4E7A-987B-56DA8CF5B665}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAIMAU_ARRAY_LIST", "BAIMAU_ARRAY_LIST\BAIMAU_ARRAY_LIST.csproj", "{AABE8EAD-6602-40EF-98CE-9ABF38876AD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_3.3_Contructor", "Bai_3.3_Contructor\Bai_3.3_Contructor.csproj", "{5BCF1D73-588B-4515-B9F1-6FC5A2146879}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +163,14 @@ Global
 		{0998BA1B-7BD1-4E7A-987B-56DA8CF5B665}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0998BA1B-7BD1-4E7A-987B-56DA8CF5B665}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0998BA1B-7BD1-4E7A-987B-56DA8CF5B665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AABE8EAD-6602-40EF-98CE-9ABF38876AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AABE8EAD-6602-40EF-98CE-9ABF38876AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AABE8EAD-6602-40EF-98CE-9ABF38876AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AABE8EAD-6602-40EF-98CE-9ABF38876AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BCF1D73-588B-4515-B9F1-6FC5A2146879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BCF1D73-588B-4515-B9F1-6FC5A2146879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BCF1D73-588B-4515-B9F1-6FC5A2146879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BCF1D73-588B-4515-B9F1-6FC5A2146879}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

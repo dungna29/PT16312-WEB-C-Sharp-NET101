@@ -1,0 +1,6 @@
+﻿- Viết 1 chương trình Quản lý Dộng Vật
+- Sử dụng Switch Case tạo menu các chức năng
+- Class DongVat gồm các thuộc tính: MaDv,CanNang,ChungLoai,NoiSong
+1. Thêm 1 Động Vật
+2. Thêm nhiều động vật sử dụng List
+3. In danh sách Dộng vật

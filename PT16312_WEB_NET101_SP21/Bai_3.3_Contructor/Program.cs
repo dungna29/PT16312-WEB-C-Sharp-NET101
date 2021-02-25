@@ -51,6 +51,7 @@ namespace Bai_3._3_Contructor
             gv1.setTenGV("Dũng");
             int tuoi = -1;
             gv1.setTuoiGV(tuoi);
+            
             //Lấy giá trị sử dụng Getter
             Console.WriteLine(gv1.getTenGV() + " " + gv1.getTuoiGV() + " " + gv1.getTruongGV());
 
@@ -58,7 +59,13 @@ namespace Bai_3._3_Contructor
             * Bài tập:
             * Viết 1 chương trình cho người dùng nhập vào 1 đối tượng Sinh Viên gồm các thuộc tính : Ten,Tuoi,Msv,Sdt sau đó in ra .
             * - Tạo 1 Class đối tượng hoàn chỉnh gồm 4 phần có private thuộc tính
+             *
+             *Các bước để giải bài này:
+             * Tạo 1 đối tượng hoàn chỉnh đu 4 phần
+             * Hàm in ra màn hình - in các thông tin của đối tượng
+             * Main mời người dùng gán giá trị cho đối tượng
             */
+
         }
     }
 }

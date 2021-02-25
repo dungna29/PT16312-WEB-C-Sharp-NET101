@@ -12,12 +12,14 @@ namespace Bai_3._3_Contructor
         private string tenGV;
         private int tuoiGV;
         private string truongGV = "FPOLY";
-
+       
+       
         //Phần 2: 2 Contructor
         public GiaoVien()
         {
             
         }
+
 
         public GiaoVien(string tenGv, int tuoiGv, string truongGv)
         {
@@ -61,5 +63,6 @@ namespace Bai_3._3_Contructor
         {
 
         }
+
     }
 }

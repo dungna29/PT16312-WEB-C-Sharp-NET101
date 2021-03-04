@@ -14,7 +14,7 @@ namespace Bai_3._5_KETHUA
 
         public Person()
         {
-            
+
         }
 
         public Person(string ho, string tendem, string ten)
@@ -42,7 +42,11 @@ namespace Bai_3._5_KETHUA
             set => ten = value;
         }
 
-       public void inRaManHinhPerson()
+        public virtual void inRaManHinhPerson()
+        {
+            Console.WriteLine("Đây là text in ra từ lớp cha");
+        }
+        public void inRaManHinhPerson2()
         {
 
         }

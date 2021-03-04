@@ -39,5 +39,13 @@ namespace Bai_3._5_KETHUA
         {
             inRaManHinhPerson();//Kế thừa phương thức của lớp cha
         }
+
+        //Để kế thừa phương thức của lớp cha sử dụng từ khóa overide và phương cha phải có virtual
+        public override void inRaManHinhPerson()
+        {
+            //base.inRaManHinhPerson();
+            Console.WriteLine("Đây là text in ra từ sinh viên");
+        }
+        
     }
 }

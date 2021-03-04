@@ -44,9 +44,13 @@ namespace Bai_3._5_KETHUA
             sv2.MaSv = "dungna";
             sv2.DiemCsharp = 3;
 
-            //Phần 3: Nạp chồng phương thức
-            //Phần 4: Ghi đè phương thức
+            //Phần 3: Nạp chồng phương thức (Overloading) các phương thức có tên giống nhau nhưng tham số sẽ phải khác nhau đầu ra cũng sẽ khác nhau
 
+            //Phần 4: Ghi đè phương thức- khi 1 lớp kế thừa phương thức của lớp cha thì nó có thể thay đổi code bên trong phương thức đó.
+            Person p1 = new Person();
+            p1.inRaManHinhPerson();
+            SinhVien sv3 = new SinhVien();
+            sv3.inRaManHinhPerson();
             /*
              * Viết 1 chương trình quản lý giao viên
              * Person(ho,tendem,ten,sdt,quequan) - Lớp Cha
@@ -56,6 +60,20 @@ namespace Bai_3._5_KETHUA
              *  1. Thêm 1 giáo viên
              *  2. Thêm nhiều giáo viên
              */
+        }
+
+        //Nạp chồng phương thức
+        static void phuongThuc1()
+        {
+
+        }
+        static void phuongThuc1(int a)
+        {
+
+        }
+        static void phuongThuc1(int a,int b)
+        {
+
         }
     }
 }
